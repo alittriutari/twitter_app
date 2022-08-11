@@ -1,5 +1,4 @@
-
-![Group 9](https://user-images.githubusercontent.com/29432760/184164576-8d3bf446-d6e7-41c1-92bd-ccbb8bc22d9b.jpg)
+![Group 9](https://user-images.githubusercontent.com/29432760/184164940-9eb8105a-5efb-40f3-89a7-3ee58bbeab2f.jpg)
 
 
 ## Getting Started
