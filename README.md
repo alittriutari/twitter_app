@@ -1,16 +1,20 @@
-# twitter_app
 
-A new Flutter project.
+![Group 9](https://user-images.githubusercontent.com/29432760/184164576-8d3bf446-d6e7-41c1-92bd-ccbb8bc22d9b.jpg)
+
 
 ## Getting Started
+1. Open project folder in VsCode or any other IDEs.
+2. In terminal, run the following command
+```
+> flutter pub get
+> flutter run -d <device_id|emulator_id>
+```
 
-This project is a starting point for a Flutter application.
+3. To login, please use the following credential 
 
-A few resources to get you started if this is your first Flutter project:
+|Usename|Password|
+|---|---|
+|`hello@glints.com`|`asdfasdf`|
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+---
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
