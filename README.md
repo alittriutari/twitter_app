@@ -9,11 +9,4 @@
 > flutter run -d <device_id|emulator_id>
 ```
 
-3. To login, please use the following credential 
-
-|Usename|Password|
-|---|---|
-|`hello@glints.com`|`asdfasdf`|
-
----
 
